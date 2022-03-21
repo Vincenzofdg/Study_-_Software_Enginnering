@@ -91,20 +91,29 @@ TCP 		|  UDP
 **R: Roteadores**
 
 **Questão 02**. O protocolo de correio eletrônico SMTP:
+
 a) transfere correspondência do servidor de correio remetente para o servidor de correio destinatário.
+
 b) tem comandos que permitem que um agente de usuário obtenha componentes da mensagem.
+
 c) trabalha com recepção das mensagens de e-mail, evitando a necessidade de baixá-las antecipadamente para o computador do usuário.
+
 d) provê comandos para que os usuários possam pesquisar em pastas remotas.
+
 e) usa a porta 110 TCP.
 
 **R: A**
 
 **Questão 03**. O que é TCP/IP?
-a) É um endereçamento para configurar a rede para 2 ou mais computadores não se comunicarem.
-b) É um protocolo apenas de recebimento de dados, exclusivamente por rede Física.
-c) É um protocolo apenas de envio de dados, exclusivamente por rede Wireless.
-d) É um protocolo para envio e recebimento de dados, apenas utilizado pela Wireless.
-e) É um conjunto de protocolos, isto é, de padrões de comunicação que são responsáveis por execuções de tarefas distintas, a fim de realizar a comunicação de dois ou mais computadores.
 
+a) É um endereçamento para configurar a rede para 2 ou mais computadores não se comunicarem.
+
+b) É um protocolo apenas de recebimento de dados, exclusivamente por rede Física.
+
+c) É um protocolo apenas de envio de dados, exclusivamente por rede Wireless.
+
+d) É um protocolo para envio e recebimento de dados, apenas utilizado pela Wireless.
+
+e) É um conjunto de protocolos, isto é, de padrões de comunicação que são responsáveis por execuções de tarefas distintas, a fim de realizar a comunicação de dois ou mais computadores.
 
 **R: A**
