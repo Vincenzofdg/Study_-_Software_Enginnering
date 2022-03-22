@@ -43,13 +43,13 @@
 
 | Malha | Anel | Estrela | Barramento (Ponta a Ponta)
 |:----------:|:----------:|:----------:|:----------:|
-| ![malha](./.imgs/malha_topologia.png) |  ![anel.png](./.imgs/anel_topologia.png) | ![estrela](./.imgs/estrela_topologia.png) | ![barremento](./.imgs/barremento_topologia.png)
+| ![malha](../.imgs/malha_topologia.jpg) |  ![anel.png](../.imgs/anel_topologia.jpg) | ![estrela](../.imgs/estrela_topologia.jpg) | ![barremento](../.imgs/barremento_topologia.jpg)
 
 ## Hardwares de Rede
 
 | Placa de Rede | Modem | Hub | Roteador | Switch
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| ![placa](./.imgs/placa_de_rede.png) |  ![modem](./.imgs/modem.png) | ![hub](./.imgs/hub.png) | ![roteador](./.imgs/roteador.png) | ![switch](./.imgs/switch.png)
+| ![placa](../.imgs/placa_de_rede.jpg) |  ![modem](../.imgs/modem.jpg) | ![hub](../.imgs/hub.jpg) | ![roteador](../.imgs/roteador.jpg) | ![switch](../.imgs/switch.jpg)
 
 ## Modelo OSI
 Padronização dos esquemas de rede. Divide a rede em camadas fazendo com que cada uma exerça uma tarefa específica.
