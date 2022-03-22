@@ -136,7 +136,7 @@ As transmissões 802.3 utilizam um cabeçalho de 14 bytes, dos quais:
 - Identificam um grupo de interfaces de nós diferentes;
 - O pacote alcança a interface mais próxima.
 
-![anycast](./.imgs/anycast.png)
+![anycast](../.imgs/anycast.jpg)
 
 **Multicast**
 
