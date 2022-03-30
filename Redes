@@ -1,0 +1,34 @@
+CAMNDOS LINUX PARA REDE:
+	
+#	ifconfig 			(consultar informacoes de rede atuais permite configurar um IP novo de forma temporaria)
+		
+#	ping num_IP 			(testar conectividade da red)
+	
+	traceroute 			(trasar uma rota da maquina ate um comp remoto ver por onde os pacotes passam, com para fazer)
+			
+	mtr 				(my trace route, combina ping + traceroute)
+	
+	netstat 			(mostra conexao atual tabelas de roteamento e outra sessoes de comununicacao ativa)
+	
+	netstat -i enp5s0 		(MINHA REDE.. resumo de pacotes transferidos com e sem erro)
+	
+	dig www.planetaunix.com.be	(lookup DNS, traz informacoes do dns deste endereco)
+
+	nslookup www.google.com.br 	(mostra IP)
+	
+	route 				(mostra e permite manipular tabela de roteamento)
+	
+	ethtool 			(visualizar e ajustar parametros da rede)
+	
+	--------------------------------------------------
+	ssh 192.168.1.103 		(Conectar numa maquina com o IP)
+	
+	iwconfig xlan0			(Informacoes da placa sem fio)
+	
+	iwlist iwconfig wlan0 channel	(ver os canais da placa wifi)
+	
+	iwconfig wlan0 channel num 	(trocar o canal)
+	
+	iwlist wlan0 scanning 		(ver redes proximas)
+	
+	--------------------------------------------------
